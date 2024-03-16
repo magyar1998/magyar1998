@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Python, SQL e Power BI**
 
-- 📫 Você pode me achar por meio de **henrique.magyar@gmail.com**
+- 📫 Você pode me encontrar pelo meio email **henrique.magyar@gmail.com** ou pelo discord **henriquemagyar**
 
 - 📄 Engenheiro Químico pela Universidade Federal de São Paulo (UNIFESP), atuo na área de Sales Lab & CX na Ambev, com foco na qualidade de atendimento, implementação de projetos de automação e análise de dados em Python, Power BI e Excel.
 
