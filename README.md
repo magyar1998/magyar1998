@@ -7,7 +7,7 @@
 
 - 📫 Você pode me encontrar pelo meio email **henrique.magyar@gmail.com** ou pelo discord **henriquemagyar**
 
-- 📄 Engenheiro Químico pela Universidade Federal de São Paulo (UNIFESP), atuo na área de Sales Lab & CX na Ambev, com foco na qualidade de atendimento, implementação de projetos de automação e análise de dados em Python, Power BI e Excel.
+- 📄 Engenheiro Químico pela Universidade Federal de São Paulo (UNIFESP), atuo atuo na área de Crédito e Cobrança Ambev, com foco em análise e implementação de modelos de crédito em Python e realizando a gestão do contas receber com o time de cobrança.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
